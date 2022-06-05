@@ -313,7 +313,7 @@ print(dic['phoneno'])
 ###dictionary functions
 dic={'name':'kiran',"age":20,'phoneno':[123456779,6465365365,34645455,5454255854]}
 dic.pop('name')
-print(dic)
+print(dic2)
 
 dic.update({'addres':'hyd'})
 print(dic)
@@ -323,6 +323,8 @@ print(dic.values())
 
 dic.clear()
 print(dic)
+
+print('hi')
 
 
 
